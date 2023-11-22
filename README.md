@@ -8,8 +8,10 @@
 https://www.w3schools.com/css/css3_flexbox.asp - for any flexbox references for making boxes.
 # Additional Resources
 https://stackoverflow.com/questions/14661880/css-box-positioning-and-responsiveness
-Chatgpt
-Class Lessons on CSS
+ Chatgpt,
+ Class Lessons on CSS,
+ Decided to try and create the mockup dashboard.
+
 [
 ](https://www.w3schools.com/)
 # Screenshot - oF what the weather dashboard looklike
