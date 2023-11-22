@@ -12,5 +12,8 @@ Chatgpt
 Class Lessons on CSS
 [
 ](https://www.w3schools.com/)
-#Screenshot - oF what the weather dashboard looklike
+# Screenshot - oF what the weather dashboard looklike
 ![Screenshot 2023-11-22 at 3 28 53 PM](https://github.com/Glidingdiplomat/WeatherApi-6/assets/134241357/6c93ff14-733f-4c51-8547-b82dd1e1242c)
+
+# Deployed Application Link
+https://glidingdiplomat.github.io/WeatherApi-6/
